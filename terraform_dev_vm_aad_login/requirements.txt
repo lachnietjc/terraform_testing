@@ -1,0 +1,8 @@
+jupyterlab
+pandas
+pyodbc
+pyyaml
+nltk
+sklearn
+xlrd
+pyarrow
